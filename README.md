@@ -9,7 +9,7 @@
 2. Скачайте все файлы проекта на свой компьютер.
 
 ```
-https://github.com/IrinaQA423/vacancy_stats.git
+https://github.com/IrinaQA423/django-orm-watching-storage-part-1-master.git
 ```
 
 3. Установите зависимости.
